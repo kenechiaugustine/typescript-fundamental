@@ -1,2 +1,4 @@
 node_modules
-TODO
+yarn.lock
+package-lock.json
+dist
